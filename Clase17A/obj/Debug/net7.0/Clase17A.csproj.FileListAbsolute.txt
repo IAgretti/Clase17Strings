@@ -1,0 +1,15 @@
+C:\Proyectos\Clase17A\bin\Debug\net7.0\Clase17A.exe
+C:\Proyectos\Clase17A\bin\Debug\net7.0\Clase17A.deps.json
+C:\Proyectos\Clase17A\bin\Debug\net7.0\Clase17A.runtimeconfig.json
+C:\Proyectos\Clase17A\bin\Debug\net7.0\Clase17A.dll
+C:\Proyectos\Clase17A\bin\Debug\net7.0\Clase17A.pdb
+C:\Proyectos\Clase17A\obj\Debug\net7.0\Clase17A.csproj.AssemblyReference.cache
+C:\Proyectos\Clase17A\obj\Debug\net7.0\Clase17A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Clase17A\obj\Debug\net7.0\Clase17A.AssemblyInfoInputs.cache
+C:\Proyectos\Clase17A\obj\Debug\net7.0\Clase17A.AssemblyInfo.cs
+C:\Proyectos\Clase17A\obj\Debug\net7.0\Clase17A.csproj.CoreCompileInputs.cache
+C:\Proyectos\Clase17A\obj\Debug\net7.0\Clase17A.dll
+C:\Proyectos\Clase17A\obj\Debug\net7.0\refint\Clase17A.dll
+C:\Proyectos\Clase17A\obj\Debug\net7.0\Clase17A.pdb
+C:\Proyectos\Clase17A\obj\Debug\net7.0\Clase17A.genruntimeconfig.cache
+C:\Proyectos\Clase17A\obj\Debug\net7.0\ref\Clase17A.dll
